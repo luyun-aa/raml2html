@@ -1,4 +1,4 @@
-var raml2obj = require('raml2obj');
+var raml2obj = require('./raml2obj');
 var pjson = require('./package.json');
 var Q = require('q');
 
